@@ -1,0 +1,46 @@
+{
+    "searchPlaceholder": "Search product here...",
+    "adminPanel": "Admin Panel",
+    "logout": "Logout",
+    "Log in ": "Log in",
+    "choose": "Choose",
+        "title": "Sign Up",
+        "name": "Name",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "uploadProfile": "Upload Profile",
+        "invalidEmail": "Invalid email format",
+        "passwordCheck": "Please check password and confirm password",
+        "forgotPassword": "Forgot Password?",
+        "loginButton": "Log In",
+        "noAccount": "Don't have an account? Sign Up",
+        "invalidCredentials": "Invalid email or password.",
+        "successMessage": "Welcome back!",
+        "errorMessage": "An error occurred. Please try again.",
+            "emailErrorMessage": "Invalid email format",
+            "passwordStrengthTooltip": "Strength: {passwordStrength}%",
+            "passwordMismatchError": "Please check password and confirm password",
+            "emailErrorNotification": "Invalid email",
+ 
+            "apiErrorMessage": "An error occurred during signup. Please try again.",
+            "upload_profile": "Upload Profile Picture",
+
+            "enter_your_name": "Enter Your Name",
+
+            "enter_your_email": "Enter Your Email",
+
+            "enter_your_password": "Enter Your Password",
+            "confirm_password": "Confirm Password",
+            "confirm_your_password": "Confirm Your Password",
+            "strength": "Strength",
+            "sign_up": "Sign Up",
+            "already_have_account": "Already Have an Account",
+            "login": "Login",
+            "password_mismatch": "Password Mismatch"
+        
+        
+      }
+
+  
+  

@@ -1,0 +1,42 @@
+{
+    "searchPlaceholder": "እዚ ላይ ምርት ፈልግ...",
+    "adminPanel": "አስተዳዳሪ",
+    "logout": "ውጣ",
+    "login": "ግባ",
+    "choose": "ምረጥ",
+    "name": "ስም",
+    "confirmPassword": "የይለፍ ቃልን እይዞ",
+    "uploadProfile": "ፕሮፋይል ያስገቡ",
+    "invalidEmail": "የኢሜይል ቅርጸ ቃል ወይም ቅዱስ አይደለም",
+    "passwordCheck": "የይለፍ ቃልን እና የማረጋገጫ የይለፍ ቃልን ይመለከቱ",
+    "successMessage": "የመዝገብ ሂደት ተገኝቷል! እባኮትን ይግቡ.",
+    "errorMessage": "በሂደት ውስጥ አይደለም እባኮትን ይሞክሩ.",
+    "title": "me",
+    "email": "ኢሜይል",
+    "password": "የይለፍ ቃል",
+    "forgotPassword": "የይለፍ ቃል አልተመለስኩም?",
+    "loginButton": "ይግቡ",
+    "noAccount": "መዝገብ የለዎትም? ይመዝገቡ",
+    "invalidCredentials": "የኢሜይል ወይም የይለፍ ቃል ወይም ቅዱስ አይደለም.",
+    "emailErrorMessage": "የተሳሳተ ኢሜል",
+    "passwordStrengthTooltip": "ኃይል: {passwordStrength}%",
+    "passwordMismatchError": "እባክህ የይለፍ ቃል እና የእርግዝ ቃል ይመለክቱ",
+    "emailErrorNotification": "የተሳሳተ ኢሜል",
+    "apiErrorMessage": "ውሳኔ ኣብ ዝኸርኣን ይኸውን። እባክክስ ይሞክር.",
+    
+        "upload_profile": "ፕሮፋይል ምስል ጯን",
+  
+        "enter_your_name": "ስምዎን ይግቡ",
+
+        "enter_your_email": "ኢሜይልዎን ይግቡ",
+        "enter_your_password": "የይለፍ ቃልዎን ይግቡ",
+        "confirm_password": "የይለፍ ቃል አረጋግጥ",
+        "confirm_your_password": "የይለፍ ቃልዎን አረጋግጥ",
+        "strength": "ቃል አሰባሰብ",
+        "sign_up": "ይመዝገቡ",
+        "already_have_account?": "ቀይር አካውንት አለኝ",
+
+        "password_mismatch": "የይለፍ ቃል አይተመሳሰል"
+
+      
+}
